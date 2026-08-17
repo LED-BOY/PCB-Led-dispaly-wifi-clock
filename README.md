@@ -48,3 +48,7 @@ If you are using the arduino ide you need to install ESP32 by Espressif in board
 <img width="589" height="631" alt="Captura de pantalla 2026-08-14 151308" src="https://github.com/user-attachments/assets/90be87ea-62ce-4b1c-9e00-87717a713805" />
 once flashed you can use the clock portal to config and update the firmware, using the compiled binary in releases.
 
+# Portal Interface
+<img width="1070" height="1890" alt="Screenshot_20260817_114501_Chrome" src="https://github.com/user-attachments/assets/98d78064-7067-4cca-a900-42fb5ea9f634" />
+
+
