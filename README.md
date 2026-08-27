@@ -32,7 +32,7 @@ If auto sync is enabled in portal, the clock auto syncs every time.
 To have better definition of the digits a 3d printed diffusor/case is recommended, white color gives the best results, if you have a multicolor printer the first 4 layers can be printed in black to prevent led bleeding in the back, painting the back also works, be carful of some paints may contain metal that can decrease wifi performance.
 
 <img width="2263" height="1356" alt="20260814_112311" src="https://github.com/user-attachments/assets/a3d10305-ad62-412f-80c6-2a91aec4f0dc" />
-
+# ESP32 C3 board:
 You need to manually solder the esp32 C3 super mini to the board it is beginners friendly since the pads are pretty big, you only need to be careful to buy the same pin placement board in Aliexpress or local supplier.
 
 <img width="702" height="527" alt="Sin título" src="https://github.com/user-attachments/assets/a2b4d4ee-3948-4200-8df7-c21813804198" />
