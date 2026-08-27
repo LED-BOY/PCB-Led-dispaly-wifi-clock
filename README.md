@@ -38,7 +38,7 @@ You need to manually solder the esp32 C3 super mini to the PCB, it is beginners 
 
 <img width="702" height="527" alt="Sin título" src="https://github.com/user-attachments/assets/a2b4d4ee-3948-4200-8df7-c21813804198" />
 
-To join the difussor to the board you can use some 1.75mm filament preferably PLA since it melts very easily and with a lighter burn the point and pressed with you fingers, cut with some plyers and repat form the other side, alternatively you can use the filaments to align the boards glue it, and then cut the excess, or use some 2mm screws and nuts.
+To join the diffusor to the board, you can use some 1.75mm filament preferably PLA since it melts very easily, cut to size (aprox 7mm), and with a lighter burn the points and press with you fingers, alternatively you can use the filaments to align the boards glue it, and then cut the excess, or use some 2mm screws and nuts.
 
 <img width="2744" height="1512" alt="20260814_113749" src="https://github.com/user-attachments/assets/baa21291-d857-48c5-8fe1-7e0899a7fff9" />
 
