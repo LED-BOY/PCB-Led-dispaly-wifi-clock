@@ -34,7 +34,7 @@ To have better definition of the digits a 3d printed diffusor/case is recommende
 <img width="2263" height="1356" alt="20260814_112311" src="https://github.com/user-attachments/assets/a3d10305-ad62-412f-80c6-2a91aec4f0dc" />
 
 # ESP32 C3 board:
-You need to manually solder the esp32 C3 super mini to the board it is beginners friendly since the pads are pretty big, you only need to be careful to buy the same pin placement board in Aliexpress or local supplier.
+You need to manually solder the esp32 C3 super mini to the PCB, it is beginners friendly since the pads are pretty big, you only need to be careful to buy the same pin placement board in Aliexpress or local supplier.
 
 <img width="702" height="527" alt="Sin título" src="https://github.com/user-attachments/assets/a2b4d4ee-3948-4200-8df7-c21813804198" />
 
